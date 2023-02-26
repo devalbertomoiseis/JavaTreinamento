@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Moiseis
+ *
+ */
+module Java {
+}
